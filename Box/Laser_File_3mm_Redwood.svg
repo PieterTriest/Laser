@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   sodipodi:docname="Laser_File_3mm_Redwood.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 400 400"
+   height="400mm"
+   width="400mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.43543759"
+     inkscape:cx="839.38549"
+     inkscape:cy="623.5107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true"
+     inkscape:snap-bbox="false"
+     inkscape:object-paths="true"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2">
+    <rect
+       x="253.32828"
+       y="97.433955"
+       width="753.48925"
+       height="126.66414"
+       id="rect3724" />
+  </defs>
+  <text
+     xml:space="preserve"
+     transform="scale(0.26458333)"
+     id="text3722"
+     style="font-size:68.0315px;line-height:1.25;font-family:Tool;-inkscape-font-specification:Tool;white-space:pre;shape-inside:url(#rect3724)"><tspan
+       x="253.32812"
+       y="158.71327"
+       id="tspan9286"><tspan
+         style="font-family:Arial;-inkscape-font-specification:Arial"
+         id="tspan9284">3mm Redwood</tspan></tspan></text>
+  <path
+     id="path989"
+     style="display:inline;fill:#a73300;fill-opacity:1;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="m 8.1138479,102.64585 v 8.33339 h -5.199479 v 8.33339 h 5.199479 v 8.33339 H 148.1144 v -8.33339 h 5.19999 v -8.33339 h -5.19999 v -8.33339 z m 130.0011021,8.00051 c 1.10467,7e-5 2.0001,0.89572 1.99988,2.0004 -7e-5,1.10447 -0.89541,1.99981 -1.99988,1.99988 -1.10448,-7e-5 -1.99981,-0.89541 -1.99988,-1.99988 -2.2e-4,-1.10467 0.8952,-2.00033 1.99988,-2.0004 z m -90.000577,-6.5e-4 c 1.10468,7e-5 2.0001,0.89572 1.99988,2.0004 -7e-5,1.10447 -0.8954,1.99981 -1.99988,1.99988 -1.10447,-7e-5 -1.9998,-0.89541 -1.99986,-1.99988 -2.3e-4,-1.10467 0.89519,-2.00033 1.99986,-2.0004 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  <path
+     id="rect989"
+     style="display:inline;fill:#a73300;fill-opacity:1;stroke:#ff0000;stroke-width:0.799999;stroke-miterlimit:10;stroke-opacity:1"
+     d="m 8.3744801,231.82481 v 16.25017 h -5.19948 v 32.49983 h 5.19948 v 16.25017 H 145.37491 v -16.25017 h 8.2001 v -32.49983 h -8.2001 v -16.25017 z m 6.0011819,8.00003 c 1.10468,6e-5 2.0001,0.89572 1.99988,2.00039 -7e-5,1.10448 -0.8954,1.99981 -1.99988,1.99988 -1.10447,-7e-5 -1.999811,-0.8954 -1.999881,-1.99988 -2.2e-4,-1.10467 0.895211,-2.00032 1.999881,-2.00039 z m 13.99915,29.99972 c 1.104679,6e-5 2.000099,0.89572 1.999879,2.00039 -7e-5,1.10448 -0.89541,1.99981 -1.999879,1.99988 -1.10447,-7e-5 -1.99981,-0.8954 -1.99988,-1.99988 -2.2e-4,-1.10467 0.8952,-2.00032 1.99988,-2.00039 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  <path
+     id="path8880"
+     style="display:inline;fill:#a73300;fill-opacity:1;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="m 300.10242,102.64585 v 8.33339 h 5.19948 v 8.33339 h -5.19948 v 8.33339 H 160.10189 v -8.33339 h -5.19999 v -8.33339 h 5.19999 v -8.33339 z m -130.00108,8.00051 c -1.10467,7e-5 -2.0001,0.89572 -1.99988,2.0004 7e-5,1.10447 0.89541,1.99981 1.99988,1.99988 1.10448,-7e-5 1.99981,-0.89541 1.99988,-1.99988 2.2e-4,-1.10467 -0.8952,-2.00033 -1.99988,-2.0004 z m 90.00056,-6.5e-4 c -1.10468,7e-5 -2.0001,0.89572 -1.99988,2.0004 7e-5,1.10447 0.8954,1.99981 1.99988,1.99988 1.10447,-7e-5 1.9998,-0.89541 1.99986,-1.99988 2.3e-4,-1.10467 -0.89519,-2.00033 -1.99986,-2.0004 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  <path
+     id="path8882"
+     style="display:inline;fill:#a73300;fill-opacity:1;stroke:#ff0000;stroke-width:0.799999;stroke-miterlimit:10;stroke-opacity:1"
+     d="m 379.83366,132.35397 v 16.25017 h 5.19948 v 32.49983 h -5.19948 v 16.25017 H 242.83325 v -16.25017 h -8.2001 v -32.49983 h 8.2001 v -16.25017 z m -6.00119,8.00003 c -1.10467,6e-5 -2.0001,0.89572 -1.99988,2.00039 7e-5,1.10448 0.89541,1.99981 1.99988,1.99988 1.10448,-7e-5 1.99981,-0.8954 1.99988,-1.99988 2.2e-4,-1.10467 -0.8952,-2.00032 -1.99988,-2.00039 z m -13.99914,29.99972 c -1.10468,6e-5 -2.0001,0.89572 -1.99988,2.00039 7e-5,1.10448 0.89541,1.99981 1.99988,1.99988 1.10447,-7e-5 1.99981,-0.8954 1.99988,-1.99988 2.2e-4,-1.10467 -0.8952,-2.00032 -1.99988,-2.00039 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  <path
+     id="rect989-8"
+     style="display:inline;fill:#a13100;fill-opacity:1;stroke:#ff0000;stroke-width:0.5;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="m 128.84575,132.35398 h 104.19989 v 16.25017 h -8.19989 v 32.49982 h 8.19989 v 16.25018 H 2.6458334 V 181.10397 H 10.845734 V 148.60415 H 2.6458334 V 132.35398 H 106.84575 l -7e-5,14.99991 5.50005,11.00008 h 10.9999 l 5.50005,-11.00008 z"
+     sodipodi:nodetypes="ccccccccccccccccccc" />
+  <rect
+     style="fill:none;stroke:#0000ff;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="rect8998"
+     width="400"
+     height="100"
+     x="-2.3134164e-17"
+     y="100" />
+  <rect
+     style="fill:none;stroke:#0000ff;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="rect9260"
+     width="400"
+     height="100"
+     x="-2.3134164e-17"
+     y="200" />
+</svg>
