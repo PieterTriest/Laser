@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.61580175"
-     inkscape:cx="791.65088"
-     inkscape:cy="632.50876"
+     inkscape:cx="645.49995"
+     inkscape:cy="1036.8597"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -62,9 +62,9 @@
      style="font-size:68.0315px;line-height:1.25;font-family:Tool;-inkscape-font-specification:Tool;white-space:pre;shape-inside:url(#rect3724);display:inline"><tspan
        x="253.32812"
        y="158.71327"
-       id="tspan16738"><tspan
+       id="tspan16880"><tspan
          style="font-family:Arial;-inkscape-font-specification:Arial"
-         id="tspan16736">5mm Redwood</tspan></tspan></text>
+         id="tspan16878">5mm Redwood</tspan></tspan></text>
   <path
      id="path26281"
      style="fill:#8f1b00;fill-opacity:1;stroke:#ffff00;stroke-width:0.5;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
@@ -137,4 +137,8 @@
      style="display:inline;fill:#8f1b00;fill-opacity:1;stroke:#ffff00;stroke-width:1.88976;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
      d="M 1137.8066 608.09375 A 1.8899597 1.8899597 0 0 0 1135.918 609.98438 L 1135.918 647.7793 A 1.8899597 1.8899597 0 0 0 1137.8066 649.66992 L 1251.2012 649.66992 A 1.8899597 1.8899597 0 0 0 1252.8906 648.62109 L 1271.7812 610.82617 A 1.8899597 1.8899597 0 0 0 1270.0918 608.09375 L 1251.2012 608.09375 L 1137.8066 608.09375 z M 1213.5938 619.61914 L 1232.1113 619.61914 L 1232.1113 638.14062 L 1213.5918 638.14062 L 1213.5938 619.61914 z "
      transform="scale(0.26458333)" />
+  <path
+     d="m 225.37319,382.24062 v -16.25018 h -8.2 v -32.49982 h 8.2 v -16.25017 z"
+     style="display:inline;fill:#8f1b00;fill-opacity:1;stroke:#ffff00;stroke-width:0.132292;stroke-miterlimit:9;stroke-dasharray:none;stroke-opacity:1"
+     id="path16765" />
 </svg>
